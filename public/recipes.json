@@ -1,0 +1,1188 @@
+[
+  {
+    "recipe_name": "White Bread",
+    "recipe_id": 1,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Active dry yeast",
+        "quantity": "1 packet (2 1/4 tsp)"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Warm water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Sugar",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Dissolve yeast and sugar in warm water. Let it sit for 5 minutes until frothy.",
+      "Mix in flour and salt to form a dough.",
+      "Knead the dough for 10 minutes until smooth.",
+      "Place in an oiled bowl, cover, and let it rise for 1-2 hours.",
+      "Punch down the dough, shape into a loaf, and place in a greased loaf pan.",
+      "Let it rise again for 30 minutes.",
+      "Preheat oven to 375°F (190°C) and bake for 25-30 minutes until golden brown."
+    ],
+    "description": "White bread is known for its simplicity and soft, fluffy texture. It's versatile and can be used for sandwiches or toast."
+  },
+
+  {
+    "recipe_name": "Whole Wheat Bread",
+    "recipe_id": 2,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "Whole wheat flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Active dry yeast",
+        "quantity": "1 packet (2 1/4 tsp)"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Warm water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Honey",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Dissolve yeast and honey in warm water. Let it sit for 5 minutes until frothy.",
+      "Mix in whole wheat flour, all-purpose flour, and salt to form a dough.",
+      "Knead the dough for 10-12 minutes until elastic.",
+      "Place in an oiled bowl, cover, and let it rise for 1-1.5 hours.",
+      "Punch down the dough, shape into a loaf, and place in a greased loaf pan.",
+      "Let it rise again for 30 minutes.",
+      "Preheat oven to 350°F (175°C) and bake for 30-35 minutes until it sounds hollow when tapped."
+    ],
+    "description": "Whole wheat bread is healthier due to the use of whole wheat flour. It has a nutty flavor and denser texture compared to white bread."
+  },
+
+  {
+    "recipe_name": "Soda Bread",
+    "recipe_id": 3,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Buttermilk",
+        "quantity": "1.5 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C) and dust a baking sheet with flour.",
+      "In a large bowl, mix flour, baking soda, and salt.",
+      "Make a well in the center and add buttermilk. Stir until it forms a sticky dough.",
+      "Turn dough onto a floured surface, knead briefly, and shape into a round loaf.",
+      "Place on the baking sheet, mark with a deep 'X' on top.",
+      "Bake for 15 minutes at 425°F (220°C), then reduce to 400°F (200°C) and bake for an additional 20-30 minutes until browned."
+    ],
+    "description": "Soda bread is unique for its use of baking soda and buttermilk, which create a quick, rustic, and slightly tangy bread. It doesn't require yeast or long rising times."
+  },
+
+  {
+    "recipe_name": "Tomato Soup",
+    "recipe_id": 4,
+    "category": "Soup",
+    "ingredients": [
+      {
+        "ingredient_name": "Canned tomatoes",
+        "quantity": "28 oz (800g)"
+      },
+      {
+        "ingredient_name": "Onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "ingredient_name": "Garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "ingredient_name": "Vegetable broth",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Olive oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredient_name": "Sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "ingredient_name": "Pepper",
+        "quantity": "To taste"
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a pot. Add onions and garlic, sauté until soft.",
+      "Add canned tomatoes (with juice), vegetable broth, sugar, salt, and pepper.",
+      "Simmer for 15-20 minutes.",
+      "Use an immersion blender to puree the soup until smooth.",
+      "Serve hot, garnished with fresh basil leaves."
+    ],
+    "description": "Tomato soup is known for its comforting, tangy flavor. It's a classic favorite, often served with grilled cheese sandwiches."
+  },
+
+  {
+    "recipe_name": "Chicken Noodle Soup",
+    "recipe_id": 5,
+    "category": "Soup",
+    "ingredients": [
+      {
+        "ingredient_name": "Boneless, skinless chicken breasts",
+        "quantity": "2"
+      },
+      {
+        "ingredient_name": "Chicken broth",
+        "quantity": "8 cups"
+      },
+      {
+        "ingredient_name": "Carrots",
+        "quantity": "2, sliced"
+      },
+      {
+        "ingredient_name": "Celery stalks",
+        "quantity": "2, chopped"
+      },
+      {
+        "ingredient_name": "Onion",
+        "quantity": "1, diced"
+      },
+      {
+        "ingredient_name": "Egg noodles",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "ingredient_name": "Pepper",
+        "quantity": "To taste"
+      },
+      {
+        "ingredient_name": "Fresh parsley",
+        "quantity": "For garnish, optional"
+      }
+    ],
+    "instructions": [
+      "In a large pot, bring chicken broth to a boil.",
+      "Add chicken breasts, carrots, celery, and onion. Simmer for 20-25 minutes until chicken is cooked.",
+      "Remove chicken, shred it, and return to the pot.",
+      "Add egg noodles and cook until tender.",
+      "Season with salt and pepper.",
+      "Serve hot, garnished with fresh parsley."
+    ],
+    "description": "Chicken noodle soup is a comforting and hearty soup with tender chicken, vegetables, and noodles. It's often enjoyed when feeling under the weather."
+  },
+
+  {
+    "recipe_name": "Potato Leek Soup",
+    "recipe_id": 6,
+    "category": "Soup",
+    "ingredients": [
+      {
+        "ingredient_name": "Leeks",
+        "quantity": "4, chopped (white and light green parts only)"
+      },
+      {
+        "ingredient_name": "Potatoes",
+        "quantity": "4, peeled and diced"
+      },
+      {
+        "ingredient_name": "Vegetable broth",
+        "quantity": "6 cups"
+      },
+      {
+        "ingredient_name": "Butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "ingredient_name": "Heavy cream",
+        "quantity": "1/2 cup, optional"
+      }
+    ],
+    "instructions": [
+      "In a large pot, melt butter and sauté leeks until soft.",
+      "Add diced potatoes and vegetable broth.",
+      "Simmer for 20-25 minutes until potatoes are tender.",
+      "Use an immersion blender to puree the soup until creamy.",
+      "Season with salt.",
+      "Stir in heavy cream if desired for added richness.",
+      "Serve hot."
+    ],
+    "description": "Potato leek soup is known for its silky texture and delicate flavor. It's a creamy, comforting soup perfect for cooler days."
+  },
+
+  {
+    "recipe_id": 7,
+    "recipe_name": "Chocolate Chip Cookies",
+    "category": "Cookie",
+    "ingredients": [
+      {
+        "ingredient_name": "Unsalted butter",
+        "quantity": "1 cup (2 sticks), softened"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "ingredient_name": "Brown sugar",
+        "quantity": "3/4 cup, packed"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "2"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "2 1/4 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Semi-sweet chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until smooth.",
+      "Beat in eggs one at a time, then stir in the vanilla.",
+      "In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add this dry mixture to the wet mixture.",
+      "Fold in the chocolate chips.",
+      "Drop dough by rounded tablespoons onto ungreased baking sheets.",
+      "Bake for 10-12 minutes until the edges are lightly golden.",
+      "Cool on wire racks. Enjoy!"
+    ],
+    "description": "Chocolate chip cookies are classic and beloved for their combination of chewy and crispy textures and the delightful taste of chocolate."
+  },
+
+  {
+    "recipe_id": 8,
+    "recipe_name": "Peanut Butter Cookies",
+    "category": "Cookie",
+    "ingredients": [
+      {
+        "ingredient_name": "Peanut butter",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a mixing bowl, cream together the peanut butter, granulated sugar, egg, and vanilla until well blended.",
+      "In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add this dry mixture to the wet mixture.",
+      "Roll dough into 1-inch balls and place them on ungreased cookie sheets.",
+      "Flatten each ball with a fork, making a crisscross pattern.",
+      "Bake for 10-12 minutes until the cookies start to brown.",
+      "Cool on wire racks. Enjoy!"
+    ],
+    "description": "Peanut butter cookies are known for their rich peanut butter flavor and crumbly, melt-in-your-mouth texture."
+  },
+
+  {
+    "recipe_id": 9,
+    "recipe_name": "Oatmeal Raisin Cookies",
+    "category": "Cookie",
+    "ingredients": [
+      {
+        "ingredient_name": "Unsalted butter",
+        "quantity": "1 cup (2 sticks), softened"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Brown sugar",
+        "quantity": "1 cup, packed"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "2"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Ground cinnamon",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Rolled oats",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Raisins",
+        "quantity": "1 1/2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until smooth.",
+      "Beat in eggs one at a time, then stir in the vanilla.",
+      "In a separate bowl, whisk together the flour, baking soda, and ground cinnamon. Gradually add this dry mixture to the wet mixture.",
+      "Stir in the rolled oats and raisins.",
+      "Drop dough by rounded tablespoons onto ungreased baking sheets.",
+      "Bake for 10-12 minutes until the edges are lightly golden.",
+      "Cool on wire racks. Enjoy!"
+    ],
+    "description": "Oatmeal raisin cookies are loved for their hearty, chewy texture and the sweetness of the raisins combined with the warmth of cinnamon."
+  },
+
+  {
+    "recipe_id": 10,
+    "recipe_name": "Pancakes",
+    "category": "Breakfast",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1"
+      },
+      {
+        "ingredient_name": "Milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Vegetable oil",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "instructions": [
+      "In a mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+      "In another bowl, beat the egg and then stir in the milk and vegetable oil.",
+      "Pour the wet mixture into the dry mixture and stir until just combined.",
+      "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+      "Pour or scoop the batter onto the griddle to make pancakes.",
+      "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+      "Serve hot with your favorite toppings."
+    ],
+    "description": "Pancakes are a classic breakfast choice, known for their fluffy texture and versatility in toppings like syrup, fruits, or chocolate chips."
+  },
+
+  {
+    "recipe_id": 11,
+    "recipe_name": "Blueberry Muffins",
+    "category": "Breakfast",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1"
+      },
+      {
+        "ingredient_name": "Milk",
+        "quantity": "1/3 cup"
+      },
+      {
+        "ingredient_name": "Vegetable oil",
+        "quantity": "1/3 cup"
+      },
+      {
+        "ingredient_name": "Blueberries",
+        "quantity": "1 cup (fresh or frozen)"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+      "In another bowl, beat the egg and then stir in the milk and vegetable oil.",
+      "Pour the wet mixture into the dry mixture and stir until just combined.",
+      "Gently fold in the blueberries.",
+      "Spoon the batter into greased muffin cups, filling each about 2/3 full.",
+      "Bake for 20-25 minutes until a toothpick comes out clean.",
+      "Cool in the muffin tin for a few minutes before transferring to a wire rack."
+    ],
+    "description": "Blueberry muffins are a delightful breakfast treat with bursts of sweet blueberries in every bite."
+  },
+
+  {
+    "recipe_id": 12,
+    "recipe_name": "Banana Nut Muffins",
+    "category": "Breakfast",
+    "ingredients": [
+      {
+        "ingredient_name": "Bananas",
+        "quantity": "3 ripe, mashed"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Unsalted butter",
+        "quantity": "1/2 cup (1 stick), softened"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1"
+      },
+      {
+        "ingredient_name": "Chopped nuts (walnuts or pecans)",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a mixing bowl, whisk together the flour, baking soda, baking powder, and salt.",
+      "In another bowl, cream the softened butter and sugar together until light and fluffy.",
+      "Beat in the egg, then stir in the mashed bananas.",
+      "Gradually add the dry mixture to the wet mixture and mix until just combined.",
+      "Fold in the chopped nuts.",
+      "Spoon the batter into greased muffin cups, filling each about 2/3 full.",
+      "Bake for 20-25 minutes until a toothpick comes out clean.",
+      "Cool in the muffin tin for a few minutes before transferring to a wire rack."
+    ],
+    "description": "Banana nut muffins are a delightful breakfast treat with the natural sweetness of bananas and the crunch of chopped nuts."
+  },
+
+  {
+    "recipe_name": "Pound Cake",
+    "recipe_id": 13,
+    "category": "Cake",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Unsalted butter, softened",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Eggs",
+        "quantity": "4 large"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour a 9x5 inch loaf pan.",
+      "In a large bowl, cream together the butter and sugar until light and fluffy.",
+      "Add eggs one at a time, beating well with each addition, then stir in the vanilla.",
+      "Combine flour, baking powder, and salt; gradually add to the creamed mixture.",
+      "Pour batter into the prepared pan.",
+      "Bake for 60 to 70 minutes in the preheated oven, until a toothpick inserted into the center of the cake comes out clean."
+    ],
+    "description": "A traditional pound cake recipe, known for its rich, buttery flavor and dense texture. Perfect as a base for various toppings and fruit accompaniments."
+  },
+
+  {
+    "recipe_name": "Vanilla Cake",
+    "recipe_id": 14,
+    "category": "Cake",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "ingredient_name": "Unsalted butter, softened",
+        "quantity": "1/2 cup"
+      },
+      {
+        "ingredient_name": "Eggs",
+        "quantity": "3 large"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "ingredient_name": "Milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "2 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+      "In a medium bowl, cream together the butter and sugar.",
+      "Beat in the eggs, one at a time, then stir in the vanilla.",
+      "Combine flour, baking powder, and salt; add to the creamed mixture alternately with milk.",
+      "Pour batter into the prepared pans.",
+      "Bake for 30 to 35 minutes, or until a toothpick inserted into the center of the cake comes out clean."
+    ],
+    "description": "A basic white cake with a tender crumb and rich vanilla flavor. Ideal for birthdays and celebrations, ready to be decorated with your favorite frosting and toppings."
+  },
+
+  {
+    "recipe_name": "Chocolate Cake",
+    "recipe_id": 15,
+    "category": "Cake",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 3/4 cups"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Cocoa powder",
+        "quantity": "3/4 cup"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "1 1/2 tsp"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 1/2 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Eggs",
+        "quantity": "2 large"
+      },
+      {
+        "ingredient_name": "Milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Vegetable oil",
+        "quantity": "1/2 cup"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Boiling water",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+      "In a large bowl, stir together flour, sugar, cocoa, baking powder, baking soda, and salt.",
+      "Add eggs, milk, oil, and vanilla; mix for 2 minutes on medium speed. Stir in the boiling water last.",
+      "Pour batter into the prepared pans.",
+      "Bake for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean."
+    ],
+    "description": "A classic chocolate cake that's moist, rich, and decadent. Perfect for any occasion and pairs wonderfully with a variety of frostings and fillings."
+  },
+
+  {
+    "recipe_name": "Carrot Cake",
+    "recipe_id": 16,
+    "category": "Cake",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Cinnamon",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredient_name": "Eggs",
+        "quantity": "4 large"
+      },
+      {
+        "ingredient_name": "Vegetable oil",
+        "quantity": "1 1/4 cups"
+      },
+      {
+        "ingredient_name": "Grated carrots",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Chopped walnuts or pecans (optional)",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch pan.",
+      "In a large bowl, mix together flour, sugar, baking soda, and cinnamon.",
+      "Add eggs and oil, mix well. Stir in carrots and nuts.",
+      "Pour into prepared pan.",
+      "Bake for 45 to 50 minutes, or until a toothpick inserted into the cake comes out clean."
+    ],
+    "description": "A moist and flavorful carrot cake, packed with grated carrots and optional nuts. A delightful treat that can be enjoyed plain or dressed up with cream cheese frosting."
+  },
+
+  {
+    "recipe_name": "Split Pea Soup",
+    "recipe_id": 17,
+    "category": "Soup",
+    "ingredients": [
+      {
+        "ingredient_name": "Dried split peas",
+        "quantity": "1 pound"
+      },
+      {
+        "ingredient_name": "Olive oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredient_name": "Chopped onion",
+        "quantity": "1 large"
+      },
+      {
+        "ingredient_name": "Chopped celery",
+        "quantity": "2 stalks"
+      },
+      {
+        "ingredient_name": "Chopped carrots",
+        "quantity": "2 large"
+      },
+      {
+        "ingredient_name": "Garlic, minced",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredient_name": "Vegetable broth or water",
+        "quantity": "8 cups"
+      },
+      {
+        "ingredient_name": "Bay leaf",
+        "quantity": "1"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Ground black pepper",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Chopped ham or smoked ham hock (optional)",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "Rinse and sort the split peas in a large bowl.",
+      "In a large pot, heat the olive oil over medium heat. Add onions, celery, and carrots; cook until softened, about 5 minutes. Stir in garlic and cook for another minute.",
+      "Add the split peas, broth, bay leaf, salt, pepper, and ham (if using).",
+      "Bring to a boil, then reduce heat to low and simmer, covered, for 1 to 1 1/2 hours, or until peas are soft.",
+      "Remove the bay leaf. Optionally, blend part of the soup for a creamier texture.",
+      "Adjust seasoning to taste and serve hot."
+    ],
+    "description": "A hearty and comforting split-pea soup, perfect for cold days. This classic soup can be enjoyed as a vegetarian dish or with the addition of ham for extra flavor."
+  }, 
+
+  {
+    "recipe_name": "Chili",
+    "recipe_id": 18,
+    "category": "Soup",
+    "ingredients": [
+      {
+        "ingredient_name": "Ground beef or turkey",
+        "quantity": "1 pound"
+      },
+      {
+        "ingredient_name": "Olive oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredient_name": "Chopped onion",
+        "quantity": "1 medium"
+      },
+      {
+        "ingredient_name": "Minced garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredient_name": "Diced tomatoes",
+        "quantity": "1 can (28 ounces)"
+      },
+      {
+        "ingredient_name": "Kidney beans, drained and rinsed",
+        "quantity": "2 cans (15 ounces each)"
+      },
+      {
+        "ingredient_name": "Tomato sauce",
+        "quantity": "1 can (8 ounces)"
+      },
+      {
+        "ingredient_name": "Chili powder",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredient_name": "Ground cumin",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Ground black pepper",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Water or beef broth",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "In a large pot, heat the olive oil over medium heat. Add the ground beef or turkey and onion, and cook until the meat is browned and the onion is tender.",
+      "Stir in garlic and cook for another minute.",
+      "Add diced tomatoes, kidney beans, tomato sauce, chili powder, cumin, salt, pepper, and water or broth. Stir well to combine.",
+      "Bring to a boil, then reduce heat to low, cover, and simmer for at least 30 minutes, stirring occasionally.",
+      "Taste and adjust seasonings as needed. Serve hot, optionally topped with cheese, sour cream, or chopped green onions."
+    ],
+    "description": "A classic and hearty chili recipe, perfect for a comforting meal. This basic chili is flavorful and easy to make, with room for personal customization and additional toppings."
+  },
+
+  {
+    "recipe_name": "Homemade Applesauce",
+    "recipe_id": 19,
+    "category": "Breakfast",
+    "ingredients": [
+      {
+        "ingredient_name": "Apples, peeled, cored, and chopped",
+        "quantity": "4 pounds"
+      },
+      {
+        "ingredient_name": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Sugar",
+        "quantity": "1/4 cup"
+      },
+      {
+        "ingredient_name": "Ground cinnamon",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Lemon juice",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "In a large pot, combine the apples and water. Bring to a boil over medium-high heat.",
+      "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the apples are very soft.",
+      "Remove from heat and add sugar, cinnamon, and lemon juice. Stir well.",
+      "Mash the apples with a potato masher or blend in a blender for a smoother texture.",
+      "Let the applesauce cool, then refrigerate. Serve chilled or at room temperature."
+    ],
+    "description": "A simple and delicious homemade applesauce recipe, perfect for a healthy and comforting breakfast. The natural sweetness of the apples is enhanced with a hint of cinnamon and lemon."
+  },
+
+  {
+    "recipe_name": "Gingerbread Cookies",
+    "recipe_id": 20,
+    "category": "Cookie",
+    "ingredients": [
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Ground ginger",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredient_name": "Ground cinnamon",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Ground cloves",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "ingredient_name": "Ground nutmeg",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "ingredient_name": "Unsalted butter, softened",
+        "quantity": "3/4 cup"
+      },
+      {
+        "ingredient_name": "Dark brown sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1 large"
+      },
+      {
+        "ingredient_name": "Molasses",
+        "quantity": "1/2 cup"
+      },
+      {
+        "ingredient_name": "Vanilla extract",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "In a bowl, whisk together flour, baking powder, ginger, cinnamon, cloves, and nutmeg. Set aside.",
+      "In a large bowl, cream together the butter and brown sugar until fluffy. Beat in the egg, then mix in the molasses and vanilla.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing until the dough comes together.",
+      "Divide the dough into two halves, wrap in plastic wrap, and chill in the refrigerator for at least two hours.",
+      "Preheat the oven to 350°F (175°C). Roll out the dough on a floured surface to about 1/4 inch thick. Cut out cookies using a gingerbread man cutter or other shapes.",
+      "Place cookies on a baking sheet lined with parchment paper and bake for 8-10 minutes or until the edges are just beginning to brown.",
+      "Allow to cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely. Decorate as desired."
+    ],
+    "description": "Classic gingerbread cookies with a perfect balance of spices and a wonderfully soft and chewy texture. Ideal for decorating and enjoying during the holiday season or any time of year."
+  },
+
+  {
+    "recipe_name": "Challah",
+    "recipe_id": 21,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "Warm water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Active dry yeast",
+        "quantity": "1 packet (2 1/4 tsp)"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1/4 cup"
+      },
+      {
+        "ingredient_name": "Vegetable oil",
+        "quantity": "1/4 cup"
+      },
+      {
+        "ingredient_name": "Eggs",
+        "quantity": "3 large"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "4 to 4 1/2 cups"
+      },
+      {
+        "ingredient_name": "Egg yolk, beaten (for glaze)",
+        "quantity": "1"
+      }
+    ],
+    "instructions": [
+      "In a large bowl, dissolve the yeast in warm water with a pinch of sugar. Let stand until frothy, about 10 minutes.",
+      "Add the remaining sugar, oil, 2 eggs, and salt to the yeast mixture. Mix well.",
+      "Gradually add enough flour to make a soft dough. Knead on a floured surface until smooth and elastic, about 10 minutes.",
+      "Place the dough in an oiled bowl, turning once to coat. Cover with a clean cloth and let rise in a warm place until doubled, about 1 hour.",
+      "Punch down the dough and divide it into three equal parts. Roll each part into a long strand. Braid the strands together and tuck the ends under. Place on a lined baking sheet.",
+      "Cover and let rise until nearly doubled, about 30 minutes.",
+      "Preheat oven to 375°F (190°C). Brush the loaf with the beaten egg yolk.",
+      "Bake for 25-30 minutes, or until the challah is golden brown and sounds hollow when tapped on the bottom. Let cool on a wire rack."
+    ],
+    "description": "Challah is a beautifully braided bread, soft and slightly sweet, making it a delightful addition to any meal. Its texture and flavor make it a favorite for both special occasions and everyday enjoyment."
+  },
+
+  {
+    "recipe_name": "Soft Pretzels",
+    "recipe_id": 22,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "Warm water",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "ingredient_name": "Active dry yeast",
+        "quantity": "2 1/4 tsp"
+      },
+      {
+        "ingredient_name": "Granulated sugar",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "4 cups"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "2/3 cup"
+      },
+      {
+        "ingredient_name": "Coarse salt, for topping",
+        "quantity": "As needed"
+      }
+    ],
+    "instructions": [
+      "Dissolve yeast in the warm water with sugar. Let it sit for 5 minutes until frothy.",
+      "Add salt and flour, then knead the dough until smooth, about 5-7 minutes.",
+      "Place in a greased bowl, cover, and let rise for 1 hour, or until doubled in size.",
+      "Preheat oven to 425°F (220°C). Bring a large pot of water to a boil and add baking soda.",
+      "Divide the dough into 12 pieces. Roll each piece into a long rope, then shape into a pretzel.",
+      "Boil each pretzel for 30 seconds, then place on a baking sheet. Sprinkle with coarse salt.",
+      "Bake for 12-14 minutes, or until golden brown. Cool on a wire rack."
+    ],
+    "description": "Homemade soft pretzels with a chewy texture and the classic pretzel flavor. Perfect for snacking, they can be enjoyed plain or with your favorite dips."
+  },
+
+  {
+    "recipe_name": "Pizza Dough",
+    "recipe_id": 23,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "Warm water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Active dry yeast",
+        "quantity": "2 1/4 tsp"
+      },
+      {
+        "ingredient_name": "Sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Olive oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "2 1/2 to 3 cups"
+      }
+    ],
+    "instructions": [
+      "In a large bowl, combine the warm water, yeast, and sugar. Let it sit for 5 minutes until the yeast is frothy.",
+      "Add olive oil, salt, and gradually mix in the flour until a dough forms.",
+      "Knead on a floured surface for about 5 minutes, until the dough is smooth and elastic.",
+      "Place the dough in a greased bowl, cover, and let it rise for 1 hour, or until doubled.",
+      "Punch down the dough and divide it into 2 balls for medium-sized pizzas.",
+      "Preheat your oven to 450°F (230°C).",
+      "Roll out dough on a floured surface, add your favorite toppings, and bake for 10-15 minutes, or until crust is golden and cheese is bubbly."
+    ],
+    "description": "A basic pizza dough recipe that's easy to make and perfect for creating delicious homemade pizzas. The dough is versatile, allowing for a variety of toppings to suit your taste."
+  },
+
+  {
+    "recipe_name": "Brown Bread",
+    "recipe_id": 24,
+    "category": "Bread",
+    "ingredients": [
+      {
+        "ingredient_name": "Whole wheat flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredient_name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredient_name": "Brown sugar",
+        "quantity": "1/4 cup"
+      },
+      {
+        "ingredient_name": "Baking powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredient_name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "ingredient_name": "Buttermilk",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "ingredient_name": "Egg",
+        "quantity": "1 large"
+      },
+      {
+        "ingredient_name": "Molasses",
+        "quantity": "1/3 cup"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.",
+      "In a large bowl, whisk together the whole wheat flour, all-purpose flour, brown sugar, baking powder, baking soda, and salt.",
+      "In another bowl, beat together the buttermilk, egg, and molasses.",
+      "Add the wet ingredients to the dry ingredients, stirring just until moistened.",
+      "Pour the batter into the prepared loaf pan.",
+      "Bake for 50 to 60 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Cool in the pan for 10 minutes, then remove to a wire rack to cool completely."
+    ],
+    "description": "A traditional brown bread recipe, featuring the rich flavors of whole wheat, molasses, and buttermilk. It's a wholesome, slightly sweet loaf that's perfect for toasting and serving with butter or jam."
+  }
+]
