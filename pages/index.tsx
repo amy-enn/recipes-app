@@ -52,12 +52,6 @@ export default function Home() {
   };
 
 
-  // const filteredData = data.filter((recipe) =>
-  //   recipe.ingredients.some(ingredient =>
-  //     ingredient.ingredient_name.toLowerCase().includes(searchTerm.toLowerCase())
-  //   )
-  // );
-
   const filteredData = data
     .filter((recipe) =>
       selectedCategory ? recipe.category === selectedCategory : true
@@ -94,8 +88,7 @@ export default function Home() {
           <h1 id="headerTitle">My Recipes</h1>
         </div>
         <div id="navLinks">
-          <a href="" className="nav-link">•GitHub•</a>
-          <a href="" className="nav-link">•Portfolio•</a>
+          <a href="https://github.com/amy-enn/recipes-app" className="nav-link">•GitHub•</a>
         </div>
       </header>
 

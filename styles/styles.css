@@ -37,10 +37,25 @@ header {
     justify-content: space-evenly;
     border: 6px double var(--color5);
     border-radius: 0px 40px;
-    padding: 1rem;
+    padding: .5rem;
     display: flex;
     flex-direction: column;
     margin: 1rem;
+}
+
+hr {
+    width: 75%;
+}
+
+header img {
+    padding: .5rem;
+    align-self: center;
+    transform: rotate(-20deg);
+}
+
+header img:hover {
+    transform: rotate(-20deg);
+    animation: logoWiggle 0.4s ease-in-out 1;
 }
 
 #navLinks {
@@ -63,27 +78,25 @@ header {
 #headerLogoTitle {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #headerTitle {
     font-size: 3rem;
-    line-height: 1.1;
+    /* line-height: 1.1; */
     text-shadow: 3px 3px 3px var(--color4);
     color: var(--color1);
     text-align: center;
+    margin: 0;
 }
 
 #indexTitle {
     color: var(--color1);
 }
 
-hr {
-    width: 75%;
-}
-
 .recipe-card {
-    margin: 1.5rem;
-    padding: 1.5rem;
+    margin: 1rem;
+    padding: 1rem;
     border: 6px double var(--color4);
     border-radius: 0px 30px 0px 30px;
     font-size: .8rem;
@@ -93,16 +106,6 @@ hr {
     list-style: none;
 }
 
-header img {
-    padding: 1rem;
-    align-self: center;
-    transform: rotate(-20deg);
-}
-
-header img:hover {
-    transform: rotate(-20deg);
-    animation: logoWiggle 0.4s ease-in-out 1;
-}
 
 #contentDiv {
     display: flex;
@@ -197,7 +200,7 @@ button:hover,
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: var(--color6);
-    padding: 30px;
+    padding: 0.5rem;
     box-shadow: 3px 3px 12px var(--color1);
     max-height: 90vh;
     width: 85%;
